@@ -22,6 +22,39 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Lower Plate",
+            "x": 220,
+            "y": 199,
+            "uniqueID": 831502,
+            "ioValues": [
+                {
+                    "name": "Metal Thickness",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Metal Thickness",
+                    "x": 41,
+                    "y": 90,
+                    "uniqueID": 344737,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Carriage",
             "x": 232,
             "y": 210,
@@ -41,6 +74,19 @@
                     "y": 82,
                     "uniqueID": 651221,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Lower Plate",
+                    "x": 220,
+                    "y": 199,
+                    "uniqueID": 831502,
+                    "ioValues": [
+                        {
+                            "name": "Metal Thickness",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
