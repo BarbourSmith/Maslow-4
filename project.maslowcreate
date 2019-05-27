@@ -104,8 +104,8 @@
         {
             "atomType": "Molecule",
             "name": "Bearing",
-            "x": 155,
-            "y": 214,
+            "x": 169,
+            "y": 191,
             "uniqueID": 229502,
             "ioValues": [],
             "topLevel": false,
@@ -557,6 +557,15 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Maslow Motor",
+                    "x": 65,
+                    "y": 165,
+                    "uniqueID": 717074,
+                    "projectID": "188842909",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Molecule",
                     "name": "Lower Plate",
                     "x": 186,
@@ -572,18 +581,9 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bearing",
-                    "x": 155,
-                    "y": 214,
+                    "x": 169,
+                    "y": 191,
                     "uniqueID": 229502,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Maslow Motor",
-                    "x": 298,
-                    "y": 135,
-                    "uniqueID": 717074,
-                    "projectID": "188842909",
                     "ioValues": []
                 },
                 {
