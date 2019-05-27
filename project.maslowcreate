@@ -163,7 +163,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 2
+                            "ioValue": 1
                         }
                     ]
                 },
@@ -180,7 +180,7 @@
                         },
                         {
                             "name": "y",
-                            "ioValue": 2
+                            "ioValue": 1
                         }
                     ],
                     "currentEquation": 0
@@ -198,7 +198,7 @@
                         },
                         {
                             "name": "y",
-                            "ioValue": 2
+                            "ioValue": 1
                         }
                     ],
                     "currentEquation": 1
@@ -254,15 +254,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 6
+                            "ioValue": 5
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 530,
-                    "y": 182,
+                    "x": 533,
+                    "y": 178,
                     "uniqueID": 805232,
                     "ioValues": [
                         {
@@ -275,7 +275,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 2
+                            "ioValue": 3
                         }
                     ]
                 },
@@ -299,6 +299,20 @@
                             "ioValue": 0
                         }
                     ]
+                },
+                {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 678,
+                    "y": 52,
+                    "uniqueID": 254019,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 527975",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
                 },
                 {
                     "atomType": "ShrinkWrap",
@@ -452,6 +466,7 @@
                     "ap1ID": 190658,
                     "ap2ID": 244727
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 395748",
