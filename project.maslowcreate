@@ -119,15 +119,28 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 15
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Thickness",
+                    "x": 62,
+                    "y": 119,
+                    "uniqueID": 211925,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 8
                         }
                     ]
                 },
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 102,
-                    "y": 179,
+                    "x": 81,
+                    "y": 180,
                     "uniqueID": 287823,
                     "ioValues": [
                         {
@@ -137,10 +150,41 @@
                     ]
                 },
                 {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 227,
+                    "y": 176,
+                    "uniqueID": 817416,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 0
+                        }
+                    ],
+                    "currentEquation": 0
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Slot",
+                    "x": 68,
+                    "y": 294,
+                    "uniqueID": 197225,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 5
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 226,
-                    "y": 89,
+                    "x": 454,
+                    "y": 45,
                     "uniqueID": 585955,
                     "ioValues": [
                         {
@@ -158,28 +202,23 @@
                     ]
                 },
                 {
-                    "atomType": "Constant",
-                    "name": "Thickness",
-                    "x": 65,
-                    "y": 265,
-                    "uniqueID": 211925,
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 471,
+                    "y": 263,
+                    "uniqueID": 889156,
                     "ioValues": [
                         {
-                            "name": "number",
-                            "ioValue": 8
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Constant",
-                    "name": "Slot",
-                    "x": 68,
-                    "y": 294,
-                    "uniqueID": 197225,
-                    "ioValues": [
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
                         {
-                            "name": "number",
-                            "ioValue": 5
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -197,7 +236,14 @@
                     "ap2Name": "geometry",
                     "ap1ID": 654684,
                     "ap2ID": 585955
-                }
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 654684,
+                    "ap2ID": 889156
+                },
+                null
             ],
             "fileTypeVersion": 1
         },
