@@ -2,6 +2,26 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 291,
+            "y": 242,
+            "uniqueID": 570197,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Maslow 4",
             "x": 0,
             "y": 0,
@@ -18,7 +38,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 500
+                            "ioValue": 400
                         }
                     ]
                 },
@@ -31,7 +51,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 400
+                            "ioValue": 350
                         }
                     ]
                 },
@@ -44,10 +64,18 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 291,
+                    "y": 242,
+                    "uniqueID": 570197,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 352,
-                    "y": 71,
+                    "x": 382,
+                    "y": 59,
                     "uniqueID": 513140,
                     "ioValues": [
                         {
