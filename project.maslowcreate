@@ -31,20 +31,28 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 400
                         }
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 234,
+                    "y": 69,
+                    "uniqueID": 111956,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 513,
-                    "y": 76,
-                    "uniqueID": 346236,
+                    "x": 352,
+                    "y": 71,
+                    "uniqueID": 513140,
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 3
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -59,9 +67,21 @@
             "allConnectors": [
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
+                    "ap2Name": "geometry1",
                     "ap1ID": 168102,
-                    "ap2ID": 346236
+                    "ap2ID": 111956
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 939075,
+                    "ap2ID": 111956
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 111956,
+                    "ap2ID": 513140
                 }
             ],
             "fileTypeVersion": 1
