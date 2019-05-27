@@ -23,8 +23,8 @@
         {
             "atomType": "Molecule",
             "name": "Lower Plate",
-            "x": 214,
-            "y": 209,
+            "x": 298,
+            "y": 47,
             "uniqueID": 831502,
             "ioValues": [
                 {
@@ -103,6 +103,67 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Bearing",
+            "x": 244,
+            "y": 214,
+            "uniqueID": 229502,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 89,
+                    "y": 56,
+                    "uniqueID": 654684,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 225,
+                    "y": 86,
+                    "uniqueID": 585955,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 654684,
+                    "ap2ID": 585955
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Carriage",
             "x": 236,
             "y": 220,
@@ -126,8 +187,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Lower Plate",
-                    "x": 214,
-                    "y": 209,
+                    "x": 298,
+                    "y": 47,
                     "uniqueID": 831502,
                     "ioValues": [
                         {
@@ -135,6 +196,14 @@
                             "ioValue": 2
                         }
                     ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Bearing",
+                    "x": 244,
+                    "y": 214,
+                    "uniqueID": 229502,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
