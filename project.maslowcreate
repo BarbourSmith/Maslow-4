@@ -536,6 +536,26 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Spool",
+            "x": 100,
+            "y": 266,
+            "uniqueID": 745437,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Carriage",
             "x": 234,
             "y": 218,
@@ -584,6 +604,14 @@
                     "x": 169,
                     "y": 191,
                     "uniqueID": 229502,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Spool",
+                    "x": 100,
+                    "y": 266,
+                    "uniqueID": 745437,
                     "ioValues": []
                 },
                 {
