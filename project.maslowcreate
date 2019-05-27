@@ -124,6 +124,19 @@
                     ]
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 112,
+                    "y": 177,
+                    "uniqueID": 287823,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 226,
@@ -153,19 +166,6 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 207,
-                    "y": 189,
-                    "uniqueID": 287823,
-                    "ioValues": [
-                        {
-                            "name": "radius",
                             "ioValue": 10
                         }
                     ]
