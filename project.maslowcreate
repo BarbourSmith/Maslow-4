@@ -2,13 +2,46 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Molecule",
-            "x": 291,
-            "y": 242,
+            "name": "Ring",
+            "x": 204,
+            "y": 136,
             "uniqueID": 570197,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Carriage",
+            "x": 232,
+            "y": 210,
+            "uniqueID": 279269,
+            "ioValues": [
+                {
+                    "name": "Metal Thickness",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Metal Thickness",
+                    "x": 50,
+                    "y": 82,
+                    "uniqueID": 651221,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -65,11 +98,24 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 291,
-                    "y": 242,
+                    "name": "Ring",
+                    "x": 204,
+                    "y": 136,
                     "uniqueID": 570197,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Carriage",
+                    "x": 232,
+                    "y": 210,
+                    "uniqueID": 279269,
+                    "ioValues": [
+                        {
+                            "name": "Metal Thickness",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Extrude",
