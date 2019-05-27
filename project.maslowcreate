@@ -126,8 +126,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 112,
-                    "y": 177,
+                    "x": 102,
+                    "y": 179,
                     "uniqueID": 287823,
                     "ioValues": [
                         {
