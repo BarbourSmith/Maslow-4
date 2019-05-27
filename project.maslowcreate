@@ -51,11 +51,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 100
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 75
                         }
                     ]
                 },
@@ -144,7 +144,9 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                null
+            ],
             "fileTypeVersion": 1
         },
         {
