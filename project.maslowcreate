@@ -23,13 +23,13 @@
         {
             "atomType": "Molecule",
             "name": "Lower Plate",
-            "x": 220,
-            "y": 199,
+            "x": 214,
+            "y": 209,
             "uniqueID": 831502,
             "ioValues": [
                 {
                     "name": "Metal Thickness",
-                    "ioValue": 10
+                    "ioValue": 2
                 }
             ],
             "topLevel": false,
@@ -68,7 +68,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 2
                         }
                     ]
                 },
@@ -104,13 +104,13 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 232,
-            "y": 210,
+            "x": 236,
+            "y": 220,
             "uniqueID": 279269,
             "ioValues": [
                 {
                     "name": "Metal Thickness",
-                    "ioValue": 10
+                    "ioValue": 2
                 }
             ],
             "topLevel": false,
@@ -126,13 +126,13 @@
                 {
                     "atomType": "Molecule",
                     "name": "Lower Plate",
-                    "x": 220,
-                    "y": 199,
+                    "x": 214,
+                    "y": 209,
                     "uniqueID": 831502,
                     "ioValues": [
                         {
                             "name": "Metal Thickness",
-                            "ioValue": 10
+                            "ioValue": 2
                         }
                     ]
                 },
@@ -145,7 +145,12 @@
                 }
             ],
             "allConnectors": [
-                null
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Metal Thickness",
+                    "ap1ID": 651221,
+                    "ap2ID": 831502
+                }
             ],
             "fileTypeVersion": 1
         },
@@ -155,7 +160,12 @@
             "x": 0,
             "y": 0,
             "uniqueID": 608324,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Metal Thickness",
+                    "ioValue": 2
+                }
+            ],
             "topLevel": true,
             "allAtoms": [
                 {
@@ -185,6 +195,14 @@
                     ]
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Metal Thickness",
+                    "x": 84,
+                    "y": 185,
+                    "uniqueID": 696688,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 234,
@@ -203,13 +221,13 @@
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 232,
-                    "y": 210,
+                    "x": 236,
+                    "y": 220,
                     "uniqueID": 279269,
                     "ioValues": [
                         {
                             "name": "Metal Thickness",
-                            "ioValue": 10
+                            "ioValue": 2
                         }
                     ]
                 },
@@ -246,6 +264,12 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 939075,
                     "ap2ID": 111956
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Metal Thickness",
+                    "ap1ID": 696688,
+                    "ap2ID": 279269
                 },
                 {
                     "ap1Name": "geometry",
