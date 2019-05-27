@@ -22,6 +22,87 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Lower Plate",
+            "x": 186,
+            "y": 36,
+            "uniqueID": 831502,
+            "ioValues": [
+                {
+                    "name": "Metal Thickness",
+                    "ioValue": 2
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Metal Thickness",
+                    "x": 41,
+                    "y": 90,
+                    "uniqueID": 344737,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 197,
+                    "y": 198,
+                    "uniqueID": 889568,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 100
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 75
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 438,
+                    "y": 117,
+                    "uniqueID": 663302,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 2
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap1ID": 344737,
+                    "ap2ID": 663302
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 889568,
+                    "ap2ID": 663302
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 663302
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Bearing",
             "x": 154,
             "y": 210,
@@ -461,87 +542,6 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Lower Plate",
-            "x": 298,
-            "y": 47,
-            "uniqueID": 831502,
-            "ioValues": [
-                {
-                    "name": "Metal Thickness",
-                    "ioValue": 2
-                }
-            ],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Input",
-                    "name": "Metal Thickness",
-                    "x": 41,
-                    "y": 90,
-                    "uniqueID": 344737,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Rectangle",
-                    "name": "Rectangle",
-                    "x": 197,
-                    "y": 198,
-                    "uniqueID": 889568,
-                    "ioValues": [
-                        {
-                            "name": "x length",
-                            "ioValue": 100
-                        },
-                        {
-                            "name": "y length",
-                            "ioValue": 75
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 438,
-                    "y": 117,
-                    "uniqueID": 663302,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 2
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 991,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "height",
-                    "ap1ID": 344737,
-                    "ap2ID": 663302
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 889568,
-                    "ap2ID": 663302
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 663302
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Carriage",
             "x": 236,
             "y": 220,
@@ -564,17 +564,9 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Bearing",
-                    "x": 154,
-                    "y": 210,
-                    "uniqueID": 229502,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
                     "name": "Lower Plate",
-                    "x": 298,
-                    "y": 47,
+                    "x": 186,
+                    "y": 36,
                     "uniqueID": 831502,
                     "ioValues": [
                         {
@@ -582,6 +574,14 @@
                             "ioValue": 2
                         }
                     ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Bearing",
+                    "x": 154,
+                    "y": 210,
+                    "uniqueID": 229502,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
