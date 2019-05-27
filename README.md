@@ -23,6 +23,3 @@
 ## Spool
 
 
-## Maslow Motor
-
-

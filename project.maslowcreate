@@ -557,8 +557,8 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 234,
-            "y": 218,
+            "x": 236,
+            "y": 217,
             "uniqueID": 279269,
             "ioValues": [
                 {
@@ -655,7 +655,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 400
+                            "ioValue": 300
                         }
                     ]
                 },
@@ -668,7 +668,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 350
+                            "ioValue": 250
                         }
                     ]
                 },
@@ -699,8 +699,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 234,
-                    "y": 218,
+                    "x": 236,
+                    "y": 217,
                     "uniqueID": 279269,
                     "ioValues": [
                         {
@@ -721,15 +721,6 @@
                             "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Maslow Motor",
-                    "x": 378,
-                    "y": 189,
-                    "uniqueID": 133696,
-                    "projectID": "188842909",
-                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
