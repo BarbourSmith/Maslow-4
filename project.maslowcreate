@@ -132,7 +132,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 20
                         }
                     ]
                 },
@@ -166,7 +166,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 10
+                            "ioValue": 8
                         }
                     ]
                 },
