@@ -119,7 +119,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 15
+                            "ioValue": 20
                         }
                     ]
                 },
@@ -310,6 +310,14 @@
                         {
                             "name": "3D shape 712358",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 395748",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 606401",
+                            "ioValue": 10
                         }
                     ],
                     "closedSelection": 0
@@ -394,6 +402,18 @@
                     "ap2Name": "geometry",
                     "ap1ID": 287823,
                     "ap2ID": 190658
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 395748",
+                    "ap1ID": 805232,
+                    "ap2ID": 553800
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 712358",
+                    "ap1ID": 889156,
+                    "ap2ID": 553800
                 }
             ],
             "fileTypeVersion": 1
