@@ -723,6 +723,15 @@
                     ]
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Maslow Motor",
+                    "x": 378,
+                    "y": 189,
+                    "uniqueID": 133696,
+                    "projectID": "188842909",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 991,
