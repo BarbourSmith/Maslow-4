@@ -303,6 +303,28 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
+                    "x": 684,
+                    "y": 126,
+                    "uniqueID": 244727,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 352470",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 468468",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 161028",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
+                },
+                {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
                     "x": 705,
                     "y": 224,
                     "uniqueID": 553800,
@@ -321,6 +343,27 @@
                         }
                     ],
                     "closedSelection": 0
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 874,
+                    "y": 145,
+                    "uniqueID": 334281,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 636427",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 370484",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 400031",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -405,15 +448,45 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 468468",
+                    "ap1ID": 190658,
+                    "ap2ID": 244727
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 395748",
                     "ap1ID": 805232,
                     "ap2ID": 553800
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 352470",
+                    "ap1ID": 805232,
+                    "ap2ID": 244727
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 712358",
                     "ap1ID": 889156,
                     "ap2ID": 553800
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 527485",
+                    "ap1ID": 244727,
+                    "ap2ID": 846856
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 370484",
+                    "ap1ID": 244727,
+                    "ap2ID": 334281
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 636427",
+                    "ap1ID": 553800,
+                    "ap2ID": 334281
                 }
             ],
             "fileTypeVersion": 1
