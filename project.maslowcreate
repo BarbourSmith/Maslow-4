@@ -137,19 +137,6 @@
                     ]
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 81,
-                    "y": 180,
-                    "uniqueID": 287823,
-                    "ioValues": [
-                        {
-                            "name": "radius",
-                            "ioValue": 20
-                        }
-                    ]
-                },
-                {
                     "atomType": "Equation",
                     "name": "Equation",
                     "x": 217,
@@ -207,14 +194,27 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 0
+                            "ioValue": 4
                         },
                         {
                             "name": "y",
-                            "ioValue": 0
+                            "ioValue": 5
                         }
                     ],
-                    "currentEquation": 0
+                    "currentEquation": 1
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 329,
+                    "y": 306,
+                    "uniqueID": 287823,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 20
+                        }
+                    ]
                 },
                 {
                     "atomType": "Translate",
@@ -234,6 +234,48 @@
                         {
                             "name": "zDist",
                             "ioValue": 8
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 520,
+                    "y": 108,
+                    "uniqueID": 190658,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 9
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 530,
+                    "y": 182,
+                    "uniqueID": 805232,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": -1
                         }
                     ]
                 },
@@ -298,10 +340,46 @@
                     "ap2ID": 831321
                 },
                 {
+                    "ap1Name": "z",
+                    "ap2Name": "x",
+                    "ap1ID": 817416,
+                    "ap2ID": 480028
+                },
+                {
                     "ap1Name": "number",
                     "ap2Name": "y",
                     "ap1ID": 197225,
                     "ap2ID": 831321
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "y",
+                    "ap1ID": 197225,
+                    "ap2ID": 480028
+                },
+                {
+                    "ap1Name": "z",
+                    "ap2Name": "zDist",
+                    "ap1ID": 831321,
+                    "ap2ID": 190658
+                },
+                {
+                    "ap1Name": "z",
+                    "ap2Name": "zDist",
+                    "ap1ID": 480028,
+                    "ap2ID": 805232
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 287823,
+                    "ap2ID": 805232
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 287823,
+                    "ap2ID": 190658
                 }
             ],
             "fileTypeVersion": 1
