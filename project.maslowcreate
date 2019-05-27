@@ -157,13 +157,13 @@
                 {
                     "atomType": "Constant",
                     "name": "Slot",
-                    "x": 68,
-                    "y": 294,
+                    "x": 59,
+                    "y": 291,
                     "uniqueID": 197225,
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 5
+                            "ioValue": 2
                         }
                     ]
                 },
@@ -180,7 +180,7 @@
                         },
                         {
                             "name": "y",
-                            "ioValue": 5
+                            "ioValue": 2
                         }
                     ],
                     "currentEquation": 0
@@ -198,7 +198,7 @@
                         },
                         {
                             "name": "y",
-                            "ioValue": 5
+                            "ioValue": 2
                         }
                     ],
                     "currentEquation": 1
@@ -212,7 +212,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 20
+                            "ioValue": 15
                         }
                     ]
                 },
@@ -254,7 +254,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 9
+                            "ioValue": 6
                         }
                     ]
                 },
@@ -275,7 +275,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -1
+                            "ioValue": 2
                         }
                     ]
                 },
@@ -299,6 +299,20 @@
                             "ioValue": 0
                         }
                     ]
+                },
+                {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 705,
+                    "y": 224,
+                    "uniqueID": 553800,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 712358",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
                 },
                 {
                     "atomType": "Output",
