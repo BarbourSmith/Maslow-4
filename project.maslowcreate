@@ -104,8 +104,8 @@
         {
             "atomType": "Molecule",
             "name": "Bearing",
-            "x": 154,
-            "y": 210,
+            "x": 155,
+            "y": 214,
             "uniqueID": 229502,
             "ioValues": [],
             "topLevel": false,
@@ -578,8 +578,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bearing",
-                    "x": 154,
-                    "y": 210,
+                    "x": 155,
+                    "y": 214,
                     "uniqueID": 229502,
                     "ioValues": []
                 },
