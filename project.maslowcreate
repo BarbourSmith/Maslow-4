@@ -537,8 +537,8 @@
         {
             "atomType": "Molecule",
             "name": "Spool",
-            "x": 100,
-            "y": 266,
+            "x": 101,
+            "y": 258,
             "uniqueID": 745437,
             "ioValues": [],
             "topLevel": false,
@@ -609,8 +609,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spool",
-                    "x": 100,
-                    "y": 266,
+                    "x": 101,
+                    "y": 258,
                     "uniqueID": 745437,
                     "ioValues": []
                 },
