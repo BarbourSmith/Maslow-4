@@ -126,8 +126,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 225,
-                    "y": 86,
+                    "x": 226,
+                    "y": 89,
                     "uniqueID": 585955,
                     "ioValues": [
                         {
@@ -141,6 +141,45 @@
                         {
                             "name": "zDist",
                             "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Thickness",
+                    "x": 65,
+                    "y": 265,
+                    "uniqueID": 211925,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 207,
+                    "y": 189,
+                    "uniqueID": 287823,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Slot",
+                    "x": 68,
+                    "y": 294,
+                    "uniqueID": 197225,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 5
                         }
                     ]
                 },
