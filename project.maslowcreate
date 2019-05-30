@@ -822,8 +822,8 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 221,
-            "y": 198,
+            "x": 224,
+            "y": 187,
             "uniqueID": 279269,
             "ioValues": [
                 {
@@ -1029,8 +1029,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 221,
-                    "y": 198,
+                    "x": 224,
+                    "y": 187,
                     "uniqueID": 279269,
                     "ioValues": [
                         {
