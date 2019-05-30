@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Ring",
-            "x": 201.93333333333334,
-            "y": 140.4,
+            "x": 205.4,
+            "y": 135.20000000000002,
             "uniqueID": 570197,
             "ioValues": [],
             "topLevel": false,
@@ -12,26 +12,26 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 105.73333333333335,
-                    "y": 88.4,
+                    "x": 109.2,
+                    "y": 91.86666666666667,
                     "uniqueID": 965033,
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 250
+                            "ioValue": 120
                         }
                     ]
                 },
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 103.13333333333334,
-                    "y": 150.8,
+                    "x": 100.53333333333335,
+                    "y": 160.33333333333334,
                     "uniqueID": 840426,
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 200
+                            "ioValue": 105
                         }
                     ]
                 },
@@ -46,8 +46,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 392.6,
-                    "y": 123.93333333333335,
+                    "x": 388.2666666666667,
+                    "y": 117.86666666666667,
                     "uniqueID": 140049,
                     "ioValues": [
                         {
@@ -822,7 +822,7 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 227.0666666666667,
+            "x": 221.00000000000003,
             "y": 208.00000000000003,
             "uniqueID": 279269,
             "ioValues": [
@@ -1021,15 +1021,15 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ring",
-                    "x": 201.93333333333334,
-                    "y": 140.4,
+                    "x": 205.4,
+                    "y": 135.20000000000002,
                     "uniqueID": 570197,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 227.0666666666667,
+                    "x": 221.00000000000003,
                     "y": 208.00000000000003,
                     "uniqueID": 279269,
                     "ioValues": [
