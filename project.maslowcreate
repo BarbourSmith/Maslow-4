@@ -3,12 +3,38 @@
         {
             "atomType": "Molecule",
             "name": "Ring",
-            "x": 194.13333333333335,
-            "y": 136.93333333333334,
+            "x": 198.4666666666667,
+            "y": 140.4,
             "uniqueID": 570197,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 107.46666666666668,
+                    "y": 93.60000000000001,
+                    "uniqueID": 965033,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 250
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 131.73333333333335,
+                    "y": 154.26666666666668,
+                    "uniqueID": 840426,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 200
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -942,8 +968,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ring",
-                    "x": 194.13333333333335,
-                    "y": 136.93333333333334,
+                    "x": 198.4666666666667,
+                    "y": 140.4,
                     "uniqueID": 570197,
                     "ioValues": []
                 },
