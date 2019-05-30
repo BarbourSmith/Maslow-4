@@ -546,6 +546,19 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
+                    "x": 62.400000000000006,
+                    "y": 63.266666666666666,
+                    "uniqueID": 988629,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
                     "x": 70.2,
                     "y": 156,
                     "uniqueID": 861204,
@@ -553,6 +566,19 @@
                         {
                             "name": "radius",
                             "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 231.40000000000003,
+                    "y": 79.73333333333333,
+                    "uniqueID": 210001,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -598,8 +624,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 381.33333333333337,
-                    "y": 65,
+                    "x": 363.1333333333334,
+                    "y": 149.0666666666667,
                     "uniqueID": 797310,
                     "ioValues": [
                         {
@@ -612,15 +638,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 6
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 373.53333333333336,
-                    "y": 177.66666666666669,
+                    "x": 368.33333333333337,
+                    "y": 205.4,
                     "uniqueID": 227857,
                     "ioValues": [
                         {
@@ -661,8 +687,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 497.4666666666667,
-                    "y": 154.26666666666668,
+                    "x": 479.2666666666667,
+                    "y": 234.00000000000003,
                     "uniqueID": 109508,
                     "ioValues": [
                         {
@@ -692,6 +718,12 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 988629,
+                    "ap2ID": 210001
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
