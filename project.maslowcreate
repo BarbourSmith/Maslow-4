@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Ring",
-            "x": 196.73333333333335,
-            "y": 143,
+            "x": 201.93333333333334,
+            "y": 140.4,
             "uniqueID": 570197,
             "ioValues": [],
             "topLevel": false,
@@ -1011,19 +1011,19 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Ring",
-                    "x": 196.73333333333335,
-                    "y": 143,
-                    "uniqueID": 570197,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 234,
                     "y": 69,
                     "uniqueID": 111956,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Ring",
+                    "x": 201.93333333333334,
+                    "y": 140.4,
+                    "uniqueID": 570197,
                     "ioValues": []
                 },
                 {
