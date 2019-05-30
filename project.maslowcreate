@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Ring",
-            "x": 202,
-            "y": 131,
+            "x": 204,
+            "y": 133,
             "uniqueID": 570197,
             "ioValues": [],
             "topLevel": false,
@@ -822,8 +822,8 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 224,
-            "y": 187,
+            "x": 221,
+            "y": 200,
             "uniqueID": 279269,
             "ioValues": [
                 {
@@ -1013,8 +1013,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ring",
-                    "x": 202,
-                    "y": 131,
+                    "x": 204,
+                    "y": 133,
                     "uniqueID": 570197,
                     "ioValues": []
                 },
@@ -1029,8 +1029,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 224,
-                    "y": 187,
+                    "x": 221,
+                    "y": 200,
                     "uniqueID": 279269,
                     "ioValues": [
                         {
