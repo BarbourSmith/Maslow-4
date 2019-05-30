@@ -12,7 +12,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 991,
+                    "x": 925,
                     "y": 164,
                     "ioValues": []
                 }
@@ -75,7 +75,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 991,
+                    "x": 925,
                     "y": 164,
                     "ioValues": []
                 }
@@ -394,7 +394,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 991,
+                    "x": 925,
                     "y": 164,
                     "ioValues": []
                 }
@@ -537,16 +537,42 @@
         {
             "atomType": "Molecule",
             "name": "Spool",
-            "x": 101,
-            "y": 258,
+            "x": 100,
+            "y": 256,
             "uniqueID": 745437,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
+                    "atomType": "Constant",
+                    "name": "Wall Thickness",
+                    "x": 56,
+                    "y": 76,
+                    "uniqueID": 392802,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 2
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 135,
+                    "y": 174,
+                    "uniqueID": 120502,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 120
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 991,
+                    "x": 925,
                     "y": 164,
                     "ioValues": []
                 }
@@ -557,8 +583,8 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 236,
-            "y": 217,
+            "x": 235,
+            "y": 212,
             "uniqueID": 279269,
             "ioValues": [
                 {
@@ -609,15 +635,15 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spool",
-                    "x": 101,
-                    "y": 258,
+                    "x": 100,
+                    "y": 256,
                     "uniqueID": 745437,
                     "ioValues": []
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 991,
+                    "x": 925,
                     "y": 164,
                     "ioValues": []
                 }
@@ -699,8 +725,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 236,
-                    "y": 217,
+                    "x": 235,
+                    "y": 212,
                     "uniqueID": 279269,
                     "ioValues": [
                         {
@@ -725,7 +751,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 991,
+                    "x": 925,
                     "y": 164,
                     "ioValues": []
                 }
