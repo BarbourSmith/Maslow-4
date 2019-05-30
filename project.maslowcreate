@@ -104,8 +104,8 @@
         {
             "atomType": "Molecule",
             "name": "Bearing",
-            "x": 169,
-            "y": 191,
+            "x": 162.0666666666667,
+            "y": 105.73333333333335,
             "uniqueID": 229502,
             "ioValues": [],
             "topLevel": false,
@@ -537,8 +537,8 @@
         {
             "atomType": "Molecule",
             "name": "Spool",
-            "x": 100,
-            "y": 256,
+            "x": 55.46666666666667,
+            "y": 251.33333333333334,
             "uniqueID": 745437,
             "ioValues": [],
             "topLevel": false,
@@ -771,15 +771,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Maslow Motor",
-                    "x": 65,
-                    "y": 165,
-                    "uniqueID": 717074,
-                    "projectID": "188842909",
-                    "ioValues": []
-                },
-                {
                     "atomType": "Molecule",
                     "name": "Lower Plate",
                     "x": 186,
@@ -795,18 +786,69 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bearing",
-                    "x": 169,
-                    "y": 191,
+                    "x": 162.0666666666667,
+                    "y": 105.73333333333335,
                     "uniqueID": 229502,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Maslow Motor",
+                    "x": 52.866666666666674,
+                    "y": 197.60000000000002,
+                    "uniqueID": 717074,
+                    "projectID": "188842909",
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Spool",
-                    "x": 100,
-                    "y": 256,
+                    "x": 55.46666666666667,
+                    "y": 251.33333333333334,
                     "uniqueID": 745437,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 185.4666666666667,
+                    "y": 244.40000000000003,
+                    "uniqueID": 589392,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 279.0666666666667,
+                    "y": 202.8,
+                    "uniqueID": 733965,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 600103",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 992316",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 779636",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -822,6 +864,24 @@
                     "ap2Name": "Metal Thickness",
                     "ap1ID": 651221,
                     "ap2ID": 831502
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 992316",
+                    "ap1ID": 717074,
+                    "ap2ID": 733965
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 745437,
+                    "ap2ID": 589392
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 600103",
+                    "ap1ID": 589392,
+                    "ap2ID": 733965
                 }
             ],
             "fileTypeVersion": 1
