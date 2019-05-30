@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Ring",
-            "x": 199,
-            "y": 132,
+            "x": 194.13333333333335,
+            "y": 136.93333333333334,
             "uniqueID": 570197,
             "ioValues": [],
             "topLevel": false,
@@ -751,8 +751,8 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 235,
-            "y": 212,
+            "x": 230.53333333333336,
+            "y": 211.4666666666667,
             "uniqueID": 279269,
             "ioValues": [
                 {
@@ -882,6 +882,11 @@
                     "ap2Name": "3D shape 600103",
                     "ap1ID": 589392,
                     "ap2ID": 733965
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 733965
                 }
             ],
             "fileTypeVersion": 1
@@ -937,8 +942,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ring",
-                    "x": 199,
-                    "y": 132,
+                    "x": 194.13333333333335,
+                    "y": 136.93333333333334,
                     "uniqueID": 570197,
                     "ioValues": []
                 },
@@ -953,8 +958,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 235,
-                    "y": 212,
+                    "x": 230.53333333333336,
+                    "y": 211.4666666666667,
                     "uniqueID": 279269,
                     "ioValues": [
                         {
