@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Ring",
-            "x": 198.4666666666667,
-            "y": 140.4,
+            "x": 196.73333333333335,
+            "y": 143,
             "uniqueID": 570197,
             "ioValues": [],
             "topLevel": false,
@@ -52,7 +52,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 4
                         }
                     ]
                 },
@@ -82,6 +82,11 @@
                     "ap2Name": "geometry",
                     "ap1ID": 679554,
                     "ap2ID": 140049
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 140049
                 }
             ],
             "fileTypeVersion": 1
@@ -817,8 +822,8 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 230.53333333333336,
-            "y": 211.4666666666667,
+            "x": 227.0666666666667,
+            "y": 208.00000000000003,
             "uniqueID": 279269,
             "ioValues": [
                 {
@@ -1008,8 +1013,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ring",
-                    "x": 198.4666666666667,
-                    "y": 140.4,
+                    "x": 196.73333333333335,
+                    "y": 143,
                     "uniqueID": 570197,
                     "ioValues": []
                 },
@@ -1024,8 +1029,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 230.53333333333336,
-                    "y": 211.4666666666667,
+                    "x": 227.0666666666667,
+                    "y": 208.00000000000003,
                     "uniqueID": 279269,
                     "ioValues": [
                         {
