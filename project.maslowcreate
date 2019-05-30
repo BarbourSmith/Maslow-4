@@ -608,8 +608,8 @@
         {
             "atomType": "Molecule",
             "name": "Spool",
-            "x": 53.73333333333334,
-            "y": 253.93333333333337,
+            "x": 49,
+            "y": 256,
             "uniqueID": 745437,
             "ioValues": [],
             "topLevel": false,
@@ -617,13 +617,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 73.66666666666667,
-                    "y": 162.93333333333334,
+                    "x": 77,
+                    "y": 156,
                     "uniqueID": 861204,
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 25.4
                         }
                     ]
                 },
@@ -732,8 +732,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 481.00000000000006,
-                    "y": 246.13333333333335,
+                    "x": 483,
+                    "y": 248,
                     "uniqueID": 109508,
                     "ioValues": [
                         {
@@ -822,8 +822,8 @@
         {
             "atomType": "Molecule",
             "name": "Carriage",
-            "x": 221,
-            "y": 200,
+            "x": 212,
+            "y": 192,
             "uniqueID": 279269,
             "ioValues": [
                 {
@@ -874,8 +874,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spool",
-                    "x": 53.73333333333334,
-                    "y": 253.93333333333337,
+                    "x": 49,
+                    "y": 256,
                     "uniqueID": 745437,
                     "ioValues": []
                 },
@@ -1029,8 +1029,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Carriage",
-                    "x": 221,
-                    "y": 200,
+                    "x": 212,
+                    "y": 192,
                     "uniqueID": 279269,
                     "ioValues": [
                         {
