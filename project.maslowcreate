@@ -12,8 +12,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 107.46666666666668,
-                    "y": 93.60000000000001,
+                    "x": 105.73333333333335,
+                    "y": 88.4,
                     "uniqueID": 965033,
                     "ioValues": [
                         {
@@ -25,13 +25,34 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 131.73333333333335,
-                    "y": 154.26666666666668,
+                    "x": 103.13333333333334,
+                    "y": 150.8,
                     "uniqueID": 840426,
                     "ioValues": [
                         {
                             "name": "radius",
                             "ioValue": 200
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 246.13333333333335,
+                    "y": 121.33333333333334,
+                    "uniqueID": 679554,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 392.6,
+                    "y": 123.93333333333335,
+                    "uniqueID": 140049,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -43,7 +64,26 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 965033,
+                    "ap2ID": 679554
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 840426,
+                    "ap2ID": 679554
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 679554,
+                    "ap2ID": 140049
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
