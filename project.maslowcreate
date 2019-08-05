@@ -34,8 +34,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 303,
-                    "y": 100,
+                    "x": 309,
+                    "y": 103,
                     "uniqueID": 489614,
                     "ioValues": [
                         {
@@ -154,6 +154,19 @@
                         {
                             "name": "z-axis degrees",
                             "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 829,
+                    "y": 128,
+                    "uniqueID": 297803,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 957591",
+                            "ioValue": 10
                         }
                     ]
                 },
