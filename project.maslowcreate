@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 60,
-            "y": 70,
+            "x": 52,
+            "y": 62,
             "uniqueID": 569290,
             "ioValues": [],
             "topLevel": false,
@@ -232,6 +232,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 772374,
                     "ap2ID": 670620
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 957591",
+                    "ap1ID": 670620,
+                    "ap2ID": 297803
                 }
             ],
             "fileTypeVersion": 1
@@ -308,8 +314,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 60,
-                    "y": 70,
+                    "x": 52,
+                    "y": 62,
                     "uniqueID": 569290,
                     "ioValues": []
                 },
