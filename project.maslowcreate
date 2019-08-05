@@ -3,9 +3,80 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 101,
-            "y": 76,
+            "x": 60,
+            "y": 70,
             "uniqueID": 569290,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Motor Mount",
+                    "x": 114,
+                    "y": 93,
+                    "uniqueID": 385963,
+                    "projectID": "197399777",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 307,
+                    "y": 114,
+                    "uniqueID": 489614,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 379,
+                    "y": 162,
+                    "uniqueID": 218940,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Lift",
+            "x": 61,
+            "y": 144,
+            "uniqueID": 272201,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
@@ -22,10 +93,30 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
-            "x": 114,
-            "y": 146,
-            "uniqueID": 272201,
+            "name": "Electronics",
+            "x": 60,
+            "y": 209,
+            "uniqueID": 264668,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Sled",
+            "x": 67,
+            "y": 294,
+            "uniqueID": 398761,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
@@ -52,17 +143,33 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 101,
-                    "y": 76,
+                    "x": 60,
+                    "y": 70,
                     "uniqueID": 569290,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 114,
-                    "y": 146,
+                    "name": "Lift",
+                    "x": 61,
+                    "y": 144,
                     "uniqueID": 272201,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Electronics",
+                    "x": 60,
+                    "y": 209,
+                    "uniqueID": 264668,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Sled",
+                    "x": 67,
+                    "y": 294,
+                    "uniqueID": 398761,
                     "ioValues": []
                 },
                 {
