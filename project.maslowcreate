@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 60,
-            "y": 68,
+            "x": 55,
+            "y": 67,
             "uniqueID": 569290,
             "ioValues": [],
             "topLevel": false,
@@ -314,8 +314,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 60,
-                    "y": 68,
+                    "x": 55,
+                    "y": 67,
                     "uniqueID": 569290,
                     "ioValues": []
                 },
