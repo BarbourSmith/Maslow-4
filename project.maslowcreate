@@ -12,17 +12,30 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Motor Mount",
-                    "x": 114,
-                    "y": 93,
+                    "x": 149,
+                    "y": 45,
                     "uniqueID": 385963,
                     "projectID": "197399777",
                     "ioValues": []
                 },
                 {
+                    "atomType": "Constant",
+                    "name": "Metal Thickness",
+                    "x": 78,
+                    "y": 197,
+                    "uniqueID": 829232,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 3
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 307,
-                    "y": 114,
+                    "x": 303,
+                    "y": 100,
                     "uniqueID": 489614,
                     "ioValues": [
                         {
@@ -35,15 +48,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 3
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 379,
-                    "y": 162,
+                    "x": 397,
+                    "y": 193,
                     "uniqueID": 218940,
                     "ioValues": [
                         {
@@ -56,6 +69,27 @@
                         },
                         {
                             "name": "zDist",
+                            "ioValue": 3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 501,
+                    "y": 87,
+                    "uniqueID": 230569,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
                             "ioValue": 0
                         }
                     ]
@@ -63,8 +97,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 449,
-                    "y": 209,
+                    "x": 528,
+                    "y": 268,
                     "uniqueID": 772374,
                     "ioValues": [
                         {
@@ -77,7 +111,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 3
                         }
                     ]
                 },
@@ -89,7 +123,50 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 385963,
+                    "ap2ID": 489614
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "zDist",
+                    "ap1ID": 829232,
+                    "ap2ID": 489614
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "zDist",
+                    "ap1ID": 829232,
+                    "ap2ID": 218940
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "zDist",
+                    "ap1ID": 829232,
+                    "ap2ID": 772374
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 489614,
+                    "ap2ID": 218940
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 489614,
+                    "ap2ID": 230569
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 218940,
+                    "ap2ID": 772374
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
