@@ -3,7 +3,7 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 56,
+            "x": 55,
             "y": 56,
             "uniqueID": 569290,
             "ioValues": [],
@@ -245,8 +245,8 @@
         {
             "atomType": "Molecule",
             "name": "Lift",
-            "x": 61,
-            "y": 144,
+            "x": 57,
+            "y": 134,
             "uniqueID": 272201,
             "ioValues": [],
             "topLevel": false,
@@ -314,7 +314,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 56,
+                    "x": 55,
                     "y": 56,
                     "uniqueID": 569290,
                     "ioValues": []
@@ -322,8 +322,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Lift",
-                    "x": 61,
-                    "y": 144,
+                    "x": 57,
+                    "y": 134,
                     "uniqueID": 272201,
                     "ioValues": []
                 },
