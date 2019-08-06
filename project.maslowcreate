@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 55,
-            "y": 56,
+            "x": 57,
+            "y": 59,
             "uniqueID": 569290,
             "ioValues": [],
             "topLevel": false,
@@ -12,8 +12,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Motor Mount",
-                    "x": 149,
-                    "y": 45,
+                    "x": 154,
+                    "y": 40,
                     "uniqueID": 385963,
                     "projectID": "197399777",
                     "ioValues": []
@@ -314,8 +314,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 55,
-                    "y": 56,
+                    "x": 57,
+                    "y": 59,
                     "uniqueID": 569290,
                     "ioValues": []
                 },
