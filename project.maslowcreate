@@ -2,12 +2,360 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Arms",
+            "x": 59,
+            "y": 59,
+            "uniqueID": 569290,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Motor Mount",
+                    "x": 157,
+                    "y": 39,
+                    "uniqueID": 385963,
+                    "projectID": "197399777",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Metal Thickness",
+                    "x": 78,
+                    "y": 197,
+                    "uniqueID": 829232,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 309,
+                    "y": 103,
+                    "uniqueID": 489614,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 397,
+                    "y": 193,
+                    "uniqueID": 218940,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 504,
+                    "y": 83,
+                    "uniqueID": 230569,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 90
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 528,
+                    "y": 268,
+                    "uniqueID": 772374,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 595,
+                    "y": 159,
+                    "uniqueID": 729660,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 180
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 678,
+                    "y": 224,
+                    "uniqueID": 670620,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 829,
+                    "y": 128,
+                    "uniqueID": 297803,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 957591",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 540693",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 385963,
+                    "ap2ID": 489614
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "zDist",
+                    "ap1ID": 829232,
+                    "ap2ID": 489614
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "zDist",
+                    "ap1ID": 829232,
+                    "ap2ID": 218940
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "zDist",
+                    "ap1ID": 829232,
+                    "ap2ID": 772374
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 489614,
+                    "ap2ID": 218940
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 489614,
+                    "ap2ID": 230569
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 218940,
+                    "ap2ID": 772374
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 218940,
+                    "ap2ID": 729660
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 772374,
+                    "ap2ID": 670620
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 957591",
+                    "ap1ID": 670620,
+                    "ap2ID": 297803
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Lift",
+            "x": 56,
+            "y": 136,
+            "uniqueID": 272201,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Electronics",
+            "x": 60,
+            "y": 209,
+            "uniqueID": 264668,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Sled",
+            "x": 67,
+            "y": 294,
+            "uniqueID": 398761,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Sled",
+                    "x": 130,
+                    "y": 122,
+                    "uniqueID": 392878,
+                    "projectID": "187431072",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Maslow 4",
             "x": 0,
             "y": 0,
+            "uniqueID": 608324,
             "ioValues": [],
             "topLevel": true,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Arms",
+                    "x": 59,
+                    "y": 59,
+                    "uniqueID": 569290,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Lift",
+                    "x": 56,
+                    "y": 136,
+                    "uniqueID": 272201,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Electronics",
+                    "x": 60,
+                    "y": 209,
+                    "uniqueID": 264668,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Sled",
+                    "x": 67,
+                    "y": 294,
+                    "uniqueID": 398761,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -20,5 +368,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 2
+    "circleSegmentSize": 6
 }
