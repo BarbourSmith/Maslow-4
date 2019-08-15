@@ -140,7 +140,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Controller Board",
             "x": 109,
             "y": 175,
             "uniqueID": 600767,
@@ -177,11 +177,28 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Controller Board",
                     "x": 109,
                     "y": 175,
                     "uniqueID": 600767,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 545,
+                    "y": 74,
+                    "uniqueID": 197386,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 674914",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 756148",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -191,14 +208,26 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 674914",
+                    "ap1ID": 594301,
+                    "ap2ID": 197386
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 197386
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
             "atomType": "Molecule",
             "name": "Sled",
-            "x": 68,
-            "y": 292,
+            "x": 70,
+            "y": 284,
             "uniqueID": 398761,
             "ioValues": [],
             "topLevel": false,
@@ -206,8 +235,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sled",
-                    "x": 130,
-                    "y": 128,
+                    "x": 131,
+                    "y": 124,
                     "uniqueID": 392878,
                     "projectID": "187431072",
                     "ioValues": []
@@ -259,8 +288,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Sled",
-                    "x": 68,
-                    "y": 292,
+                    "x": 70,
+                    "y": 284,
                     "uniqueID": 398761,
                     "ioValues": []
                 },
