@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 59,
-            "y": 59,
+            "x": 62,
+            "y": 61,
             "uniqueID": 569290,
             "ioValues": [],
             "topLevel": false,
@@ -52,19 +52,47 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 169,
-                    "y": 113,
+                    "x": 170,
+                    "y": 104,
                     "uniqueID": 560235,
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 120
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 50
                         }
                     ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 346,
+                    "y": 70,
+                    "uniqueID": 939291,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 483,
+                    "y": 98,
+                    "uniqueID": 189432,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "name",
+                        "numberNeeded": 0,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
                 },
                 {
                     "atomType": "Output",
@@ -74,7 +102,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 560235,
+                    "ap2ID": 939291
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -108,8 +143,8 @@
         {
             "atomType": "Molecule",
             "name": "Sled",
-            "x": 67,
-            "y": 294,
+            "x": 68,
+            "y": 292,
             "uniqueID": 398761,
             "ioValues": [],
             "topLevel": false,
@@ -118,7 +153,7 @@
                     "atomType": "GitHubMolecule",
                     "name": "Sled",
                     "x": 130,
-                    "y": 122,
+                    "y": 128,
                     "uniqueID": 392878,
                     "projectID": "187431072",
                     "ioValues": []
@@ -146,8 +181,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 59,
-                    "y": 59,
+                    "x": 62,
+                    "y": 61,
                     "uniqueID": 569290,
                     "ioValues": []
                 },
@@ -170,8 +205,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Sled",
-                    "x": 67,
-                    "y": 294,
+                    "x": 68,
+                    "y": 292,
                     "uniqueID": 398761,
                     "ioValues": []
                 },
