@@ -161,8 +161,8 @@
         {
             "atomType": "Molecule",
             "name": "Electronics",
-            "x": 55,
-            "y": 218,
+            "x": 48,
+            "y": 213,
             "uniqueID": 264668,
             "ioValues": [],
             "topLevel": false,
@@ -226,8 +226,8 @@
         {
             "atomType": "Molecule",
             "name": "Sled",
-            "x": 70,
-            "y": 284,
+            "x": 66,
+            "y": 276,
             "uniqueID": 398761,
             "ioValues": [],
             "topLevel": false,
@@ -235,8 +235,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sled",
-                    "x": 131,
-                    "y": 124,
+                    "x": 117,
+                    "y": 86,
                     "uniqueID": 392878,
                     "projectID": "187431072",
                     "ioValues": []
@@ -249,7 +249,13 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 392878
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -280,18 +286,39 @@
                 {
                     "atomType": "Molecule",
                     "name": "Electronics",
-                    "x": 55,
-                    "y": 218,
+                    "x": 48,
+                    "y": 213,
                     "uniqueID": 264668,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Sled",
-                    "x": 70,
-                    "y": 284,
+                    "x": 66,
+                    "y": 276,
                     "uniqueID": 398761,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 411,
+                    "y": 183,
+                    "uniqueID": 603948,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 966555",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 914993",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 782253",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -301,7 +328,20 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 966555",
+                    "ap1ID": 264668,
+                    "ap2ID": 603948
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 914993",
+                    "ap1ID": 398761,
+                    "ap2ID": 603948
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
