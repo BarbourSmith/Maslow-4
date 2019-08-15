@@ -43,8 +43,8 @@
         {
             "atomType": "Molecule",
             "name": "Power Supply",
-            "x": 82,
-            "y": 100,
+            "x": 114,
+            "y": 67,
             "uniqueID": 594301,
             "ioValues": [],
             "topLevel": false,
@@ -87,10 +87,10 @@
                     "uniqueID": 189432,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "name",
-                        "numberNeeded": 0,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "BOMitemName": "24Volt, 5 Amp Power Supply",
+                        "numberNeeded": 1,
+                        "costUSD": 12.95,
+                        "source": "https://www.amazon.com/Superpower-Power-Adapter-Supply-Output/dp/B01CYIFOHE",
                         "totalNeeded": 0
                     }
                 },
@@ -129,8 +129,33 @@
                     "ap2Name": "geometry",
                     "ap1ID": 189432,
                     "ap2ID": 583523
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 583523
                 }
             ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 109,
+            "y": 175,
+            "uniqueID": 600767,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
             "fileTypeVersion": 1
         },
         {
@@ -145,9 +170,17 @@
                 {
                     "atomType": "Molecule",
                     "name": "Power Supply",
-                    "x": 82,
-                    "y": 100,
+                    "x": 114,
+                    "y": 67,
                     "uniqueID": 594301,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 109,
+                    "y": 175,
+                    "uniqueID": 600767,
                     "ioValues": []
                 },
                 {
