@@ -12,8 +12,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Motor Mount",
-                    "x": 141,
-                    "y": 84,
+                    "x": 86,
+                    "y": 35,
                     "uniqueID": 450295,
                     "projectID": "197399777",
                     "ioValues": []
@@ -32,6 +32,70 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 215,
+                    "y": 66,
+                    "uniqueID": 614350,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 3.5
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 340,
+                    "y": 122,
+                    "uniqueID": 255086,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 90
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 480,
+                    "y": 40,
+                    "uniqueID": 377590,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 832118",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 707174",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 275142",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -39,7 +103,38 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 450295,
+                    "ap2ID": 614350
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 832118",
+                    "ap1ID": 450295,
+                    "ap2ID": 377590
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "zDist",
+                    "ap1ID": 781683,
+                    "ap2ID": 614350
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 614350,
+                    "ap2ID": 255086
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 707174",
+                    "ap1ID": 255086,
+                    "ap2ID": 377590
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
