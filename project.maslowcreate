@@ -3,12 +3,34 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 62,
-            "y": 61,
+            "x": 52,
+            "y": 52,
             "uniqueID": 569290,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Motor Mount",
+                    "x": 141,
+                    "y": 84,
+                    "uniqueID": 450295,
+                    "projectID": "197399777",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Metal Thickness",
+                    "x": 120,
+                    "y": 177,
+                    "uniqueID": 781683,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 3.5
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -198,7 +220,8 @@
                             "name": "3D shape 756148",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -226,8 +249,8 @@
         {
             "atomType": "Molecule",
             "name": "Sled",
-            "x": 66,
-            "y": 276,
+            "x": 65,
+            "y": 279,
             "uniqueID": 398761,
             "ioValues": [],
             "topLevel": false,
@@ -270,8 +293,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 62,
-                    "y": 61,
+                    "x": 52,
+                    "y": 52,
                     "uniqueID": 569290,
                     "ioValues": []
                 },
@@ -294,8 +317,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Sled",
-                    "x": 66,
-                    "y": 276,
+                    "x": 65,
+                    "y": 279,
                     "uniqueID": 398761,
                     "ioValues": []
                 },
@@ -318,7 +341,8 @@
                             "name": "3D shape 782253",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
