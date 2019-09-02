@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 58,
-            "y": 47,
+            "x": 59,
+            "y": 44,
             "uniqueID": 569290,
             "ioValues": [],
             "topLevel": false,
@@ -76,8 +76,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 480,
-                    "y": 40,
+                    "x": 1035,
+                    "y": 65,
                     "uniqueID": 377590,
                     "ioValues": [
                         {
@@ -133,6 +133,11 @@
                     "ap2Name": "3D shape 707174",
                     "ap1ID": 255086,
                     "ap2ID": 377590
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 377590
                 }
             ],
             "fileTypeVersion": 1
@@ -412,8 +417,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 58,
-                    "y": 47,
+                    "x": 59,
+                    "y": 44,
                     "uniqueID": 569290,
                     "ioValues": []
                 },
@@ -444,20 +449,20 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 456,
-                    "y": 282,
-                    "uniqueID": 603948,
+                    "x": 365,
+                    "y": 133,
+                    "uniqueID": 569998,
                     "ioValues": [
                         {
-                            "name": "3D shape 966555",
+                            "name": "3D shape 429150",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 914993",
+                            "name": "3D shape 932484",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 782253",
+                            "name": "3D shape 633078",
                             "ioValue": 10
                         }
                     ],
@@ -474,9 +479,15 @@
             "allConnectors": [
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 966555",
-                    "ap1ID": 264668,
-                    "ap2ID": 603948
+                    "ap2Name": "3D shape 932484",
+                    "ap1ID": 569290,
+                    "ap2ID": 569998
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 429150",
+                    "ap1ID": 272201,
+                    "ap2ID": 569998
                 },
                 {
                     "ap1Name": "Geometry",
