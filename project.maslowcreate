@@ -12,8 +12,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Motor Mount",
-                    "x": 86,
-                    "y": 35,
+                    "x": 37,
+                    "y": 111,
                     "uniqueID": 450295,
                     "projectID": "197399777",
                     "ioValues": []
@@ -21,21 +21,21 @@
                 {
                     "atomType": "Constant",
                     "name": "Metal Thickness",
-                    "x": 120,
-                    "y": 177,
+                    "x": 28,
+                    "y": 216,
                     "uniqueID": 781683,
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 3.5
+                            "ioValue": 4.5
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 215,
-                    "y": 66,
+                    "x": 194,
+                    "y": 129,
                     "uniqueID": 614350,
                     "ioValues": [
                         {
@@ -48,7 +48,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 3.5
+                            "ioValue": 4.5
                         }
                     ]
                 },
@@ -56,7 +56,7 @@
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 340,
-                    "y": 122,
+                    "y": 129,
                     "uniqueID": 255086,
                     "ioValues": [
                         {
@@ -80,10 +80,6 @@
                     "y": 65,
                     "uniqueID": 377590,
                     "ioValues": [
-                        {
-                            "name": "3D shape 832118",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 707174",
                             "ioValue": 10
@@ -109,12 +105,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 450295,
                     "ap2ID": 614350
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 832118",
-                    "ap1ID": 450295,
-                    "ap2ID": 377590
                 },
                 {
                     "ap1Name": "number",
