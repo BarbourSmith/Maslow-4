@@ -19,25 +19,18 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 204,
-                    "y": 55,
-                    "uniqueID": 127177,
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 161,
+                    "y": 34,
+                    "uniqueID": 618228,
                     "ioValues": [
                         {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
+                            "name": "T",
+                            "ioValue": 4.5
                         }
-                    ]
+                    ],
+                    "currentEquation": "4*T"
                 },
                 {
                     "atomType": "Constant",
@@ -55,20 +48,37 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 261,
-                    "y": 131,
+                    "x": 202,
+                    "y": 146,
                     "uniqueID": 470416,
                     "ioValues": [
                         {
-                            "name": "x",
-                            "ioValue": 1
-                        },
-                        {
-                            "name": "y",
-                            "ioValue": 1
+                            "name": "T",
+                            "ioValue": 4.5
                         }
                     ],
-                    "currentEquation": "x + y"
+                    "currentEquation": "3*T"
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 289,
+                    "y": 36,
+                    "uniqueID": 911067,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 18
+                        }
+                    ]
                 },
                 {
                     "atomType": "Equation",
@@ -83,6 +93,27 @@
                         }
                     ],
                     "currentEquation": "2*T"
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 293,
+                    "y": 107,
+                    "uniqueID": 761304,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 13.5
+                        }
+                    ]
                 },
                 {
                     "atomType": "Translate",
@@ -212,6 +243,24 @@
                     "ap2ID": 621605
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 450295,
+                    "ap2ID": 761304
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 450295,
+                    "ap2ID": 911067
+                },
+                {
+                    "ap1Name": "result",
+                    "ap2Name": "zDist",
+                    "ap1ID": 618228,
+                    "ap2ID": 911067
+                },
+                {
                     "ap1Name": "number",
                     "ap2Name": "zDist",
                     "ap1ID": 781683,
@@ -222,6 +271,24 @@
                     "ap2Name": "T",
                     "ap1ID": 781683,
                     "ap2ID": 551766
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "T",
+                    "ap1ID": 781683,
+                    "ap2ID": 470416
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "T",
+                    "ap1ID": 781683,
+                    "ap2ID": 618228
+                },
+                {
+                    "ap1Name": "result",
+                    "ap2Name": "zDist",
+                    "ap1ID": 470416,
+                    "ap2ID": 761304
                 },
                 {
                     "ap1Name": "result",
