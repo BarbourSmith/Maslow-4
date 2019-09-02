@@ -749,32 +749,6 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 367,
-                    "y": 137,
-                    "uniqueID": 569998,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 991851",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 645040",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 626009",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 800911",
-                            "ioValue": 10
-                        }
-                    ],
-                    "removeCutawayGeometry": true
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -796,27 +770,10 @@
                     "ap2ID": 569998
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 991851",
-                    "ap1ID": 932054,
-                    "ap2ID": 569998
-                },
-                {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 398761,
                     "ap2ID": 273681
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 626009",
-                    "ap1ID": 273681,
-                    "ap2ID": 569998
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 569998
                 }
             ],
             "fileTypeVersion": 1
