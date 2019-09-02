@@ -21,8 +21,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 161,
-                    "y": 34,
+                    "x": 154,
+                    "y": 37,
                     "uniqueID": 618228,
                     "ioValues": [
                         {
@@ -160,8 +160,50 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 395,
-                    "y": 204,
+                    "x": 411,
+                    "y": 116,
+                    "uniqueID": 538071,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 180
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 430,
+                    "y": 54,
+                    "uniqueID": 128418,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 270
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 390,
+                    "y": 203,
                     "uniqueID": 884796,
                     "ioValues": [
                         {
@@ -216,6 +258,14 @@
                         },
                         {
                             "name": "3D shape 547038",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 140735",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 138888",
                             "ioValue": 10
                         }
                     ],
@@ -291,10 +341,22 @@
                     "ap2ID": 761304
                 },
                 {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 911067,
+                    "ap2ID": 128418
+                },
+                {
                     "ap1Name": "result",
                     "ap2Name": "zDist",
                     "ap1ID": 551766,
                     "ap2ID": 621605
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 761304,
+                    "ap2ID": 538071
                 },
                 {
                     "ap1Name": "geometry",
@@ -307,6 +369,18 @@
                     "ap2Name": "geometry",
                     "ap1ID": 614350,
                     "ap2ID": 255086
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 547038",
+                    "ap1ID": 538071,
+                    "ap2ID": 377590
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 140735",
+                    "ap1ID": 128418,
+                    "ap2ID": 377590
                 },
                 {
                     "ap1Name": "geometry",
