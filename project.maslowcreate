@@ -756,15 +756,11 @@
                     "uniqueID": 700611,
                     "ioValues": [
                         {
-                            "name": "3D shape 163606",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 144746",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 357797",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 608595",
                             "ioValue": 10
                         }
                     ],
@@ -787,7 +783,7 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 163606",
+                    "ap2Name": "3D shape 357797",
                     "ap1ID": 932054,
                     "ap2ID": 700611
                 },
@@ -799,9 +795,8 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 144746",
-                    "ap1ID": 273681,
-                    "ap2ID": 700611
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 700611
                 }
             ],
             "fileTypeVersion": 1
