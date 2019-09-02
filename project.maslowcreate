@@ -762,6 +762,10 @@
                         {
                             "name": "3D shape 608595",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 643386",
+                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -792,6 +796,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 398761,
                     "ap2ID": 273681
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 608595",
+                    "ap1ID": 273681,
+                    "ap2ID": 700611
                 },
                 {
                     "ap1Name": "geometry",
