@@ -12,17 +12,11 @@
 |20mm M4 Spacer Aluminum|3|$5.58|https://www.mcmaster.com/94669a090|
 |M4 Bolt 55mm|6|$1.99|https://www.mcmaster.com/91290a187|
 |Shaft Support|8|$175.44|https://www.mcmaster.com/62645k42|
-|ET-WGM58AE|65|$715.00|http://www.etonm.com/|
+|ET-WGM58AE|13|$143.00|http://www.etonm.com/|
 |10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
 |Lead Screw Nut|2|$152.72|https://www.mcmaster.com/7549k16|
 |Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
 |Bosch 1617EVS|3|$507.00|https://www.amazon.com/dp/B00004TKHV|
-|M4 Bolt|112|$10.08|https://www.mcmaster.com/92095a190|
-|Amsteel Blue 3/16|88|$5.36|http://www.amsteelblue.com/amsteel-blue-3-16-synthetic-rope-by-the-foot-4-900-lbs/|
-|Magnet|12|$18.00|https://dextermag.eu/|
-|Roller|12|$42.00|www.example.com|
-|Encoder PCB|32|$224.00|www.example.com|
-|Bearing|8|$12.00|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
-|Total: |397|$1921.34| |
+|Total: |81|$1037.90| |
 
- 3xCOG MSRP: $5764.02
+ 3xCOG MSRP: $3113.70

@@ -174,7 +174,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 180
+                            "ioValue": 225
                         }
                     ]
                 },
@@ -195,7 +195,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 270
+                            "ioValue": 315
                         }
                     ]
                 },
@@ -216,7 +216,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 90
+                            "ioValue": 135
                         }
                     ]
                 },
@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 45
                         }
                     ]
                 },
@@ -701,8 +701,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 224,
-                    "y": 61,
+                    "x": 222,
+                    "y": 58,
                     "uniqueID": 932054,
                     "ioValues": [
                         {
@@ -715,7 +715,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 40
+                            "ioValue": 55
                         }
                     ]
                 },
@@ -768,12 +768,6 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 429150",
                     "ap1ID": 272201,
-                    "ap2ID": 569998
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 633078",
-                    "ap1ID": 932054,
                     "ap2ID": 569998
                 },
                 {
