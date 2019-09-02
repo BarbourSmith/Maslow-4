@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Arms",
-            "x": 52,
-            "y": 52,
+            "x": 58,
+            "y": 47,
             "uniqueID": 569290,
             "ioValues": [],
             "topLevel": false,
@@ -140,12 +140,30 @@
         {
             "atomType": "Molecule",
             "name": "Lift",
-            "x": 56,
+            "x": 54,
             "y": 136,
             "uniqueID": 272201,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Z-Axis Router Lift Mechanism",
+                    "x": 89,
+                    "y": 116,
+                    "uniqueID": 428019,
+                    "projectID": "200638041",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Z-Axis Router Lift Mechanism",
+                    "x": 89,
+                    "y": 116,
+                    "uniqueID": 661233,
+                    "projectID": "200638041",
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -154,7 +172,13 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 428019
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -353,8 +377,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Sled",
-                    "x": 117,
-                    "y": 86,
+                    "x": 104,
+                    "y": 143,
                     "uniqueID": 392878,
                     "projectID": "187431072",
                     "ioValues": []
@@ -388,15 +412,15 @@
                 {
                     "atomType": "Molecule",
                     "name": "Arms",
-                    "x": 52,
-                    "y": 52,
+                    "x": 58,
+                    "y": 47,
                     "uniqueID": 569290,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Lift",
-                    "x": 56,
+                    "x": 54,
                     "y": 136,
                     "uniqueID": 272201,
                     "ioValues": []
@@ -420,8 +444,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 411,
-                    "y": 183,
+                    "x": 456,
+                    "y": 282,
                     "uniqueID": 603948,
                     "ioValues": [
                         {
