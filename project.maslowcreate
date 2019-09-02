@@ -19,6 +19,27 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 204,
+                    "y": 55,
+                    "uniqueID": 127177,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Constant",
                     "name": "Metal Thickness",
                     "x": 28,
@@ -32,10 +53,24 @@
                     ]
                 },
                 {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 176,
+                    "y": 201,
+                    "uniqueID": 551766,
+                    "ioValues": [
+                        {
+                            "name": "T",
+                            "ioValue": 4.5
+                        }
+                    ],
+                    "currentEquation": "2*T"
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 194,
-                    "y": 129,
+                    "x": 182,
+                    "y": 284,
                     "uniqueID": 614350,
                     "ioValues": [
                         {
@@ -53,10 +88,31 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 298,
+                    "y": 197,
+                    "uniqueID": 621605,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 9
+                        }
+                    ]
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 340,
-                    "y": 129,
+                    "x": 422,
+                    "y": 259,
                     "uniqueID": 255086,
                     "ioValues": [
                         {
@@ -76,8 +132,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1035,
-                    "y": 65,
+                    "x": 564,
+                    "y": 142,
                     "uniqueID": 377590,
                     "ioValues": [
                         {
@@ -106,11 +162,24 @@
                     "ap1ID": 450295,
                     "ap2ID": 614350
                 },
+                null,
                 {
                     "ap1Name": "number",
                     "ap2Name": "zDist",
                     "ap1ID": 781683,
                     "ap2ID": 614350
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "T",
+                    "ap1ID": 781683,
+                    "ap2ID": 551766
+                },
+                {
+                    "ap1Name": "result",
+                    "ap2Name": "zDist",
+                    "ap1ID": 551766,
+                    "ap2ID": 621605
                 },
                 {
                     "ap1Name": "geometry",
