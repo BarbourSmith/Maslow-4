@@ -174,7 +174,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 225
+                            "ioValue": 210
                         }
                     ]
                 },
@@ -195,7 +195,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 315
+                            "ioValue": 330
                         }
                     ]
                 },
@@ -216,7 +216,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 135
+                            "ioValue": 150
                         }
                     ]
                 },
@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 45
+                            "ioValue": 30
                         }
                     ]
                 },
