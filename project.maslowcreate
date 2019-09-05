@@ -416,7 +416,7 @@
                     "name": "Z-Axis Router Lift Mechanism",
                     "x": 89,
                     "y": 116,
-                    "uniqueID": 428019,
+                    "uniqueID": 661233,
                     "projectID": "200638041",
                     "ioValues": []
                 },
@@ -425,7 +425,7 @@
                     "name": "Z-Axis Router Lift Mechanism",
                     "x": 89,
                     "y": 116,
-                    "uniqueID": 661233,
+                    "uniqueID": 428019,
                     "projectID": "200638041",
                     "ioValues": []
                 },
@@ -567,8 +567,8 @@
         {
             "atomType": "Molecule",
             "name": "Electronics",
-            "x": 48,
-            "y": 213,
+            "x": 60,
+            "y": 209,
             "uniqueID": 264668,
             "ioValues": [],
             "topLevel": false,
@@ -693,8 +693,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Electronics",
-                    "x": 48,
-                    "y": 213,
+                    "x": 60,
+                    "y": 209,
                     "uniqueID": 264668,
                     "ioValues": []
                 },
