@@ -67,10 +67,6 @@
                     "uniqueID": 911067,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -106,10 +102,6 @@
                     "uniqueID": 761304,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -130,10 +122,6 @@
                     "y": 195,
                     "uniqueID": 621605,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 0
@@ -156,10 +144,6 @@
                     "uniqueID": 614350,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -180,10 +164,6 @@
                     "y": 116,
                     "uniqueID": 538071,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -206,10 +186,6 @@
                     "uniqueID": 128418,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -230,10 +206,6 @@
                     "y": 203,
                     "uniqueID": 884796,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -256,10 +228,6 @@
                     "uniqueID": 255086,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -280,22 +248,6 @@
                     "y": 142,
                     "uniqueID": 377590,
                     "ioValues": [
-                        {
-                            "name": "3D shape 707174",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 275142",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 547038",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 140735",
-                            "ioValue": ""
-                        },
                         {
                             "name": "3D shape 138888",
                             "ioValue": ""
@@ -326,7 +278,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -468,7 +420,7 @@
                     "name": "Z-Axis Router Lift Mechanism",
                     "x": 89,
                     "y": 116,
-                    "uniqueID": 661233,
+                    "uniqueID": 428019,
                     "projectID": "200638041",
                     "ioValues": []
                 },
@@ -477,14 +429,14 @@
                     "name": "Z-Axis Router Lift Mechanism",
                     "x": 89,
                     "y": 116,
-                    "uniqueID": 428019,
+                    "uniqueID": 661233,
                     "projectID": "200638041",
                     "ioValues": []
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -564,7 +516,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -608,7 +560,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -653,11 +605,11 @@
                             "ioValue": ""
                         },
                         {
-                            "name": "3D shape 674914",
+                            "name": "3D shape 756148",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 756148",
+                            "name": "3D shape 674914",
                             "ioValue": 10
                         }
                     ],
@@ -666,7 +618,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -707,7 +659,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -762,10 +714,6 @@
                     "uniqueID": 932054,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -816,31 +764,23 @@
                     "uniqueID": 700611,
                     "ioValues": [
                         {
-                            "name": "3D shape 357797",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 643386",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "3D shape 419515",
                             "ioValue": ""
                         },
                         {
                             "name": "3D shape 357797",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 643386",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 419515",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 608595",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 643386",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 419515",
                             "ioValue": 10
                         }
                     ],
@@ -849,7 +789,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }

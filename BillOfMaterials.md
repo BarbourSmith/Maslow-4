@@ -2,6 +2,27 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|Amsteel Blue 3/16|44|$2.68|http://www.amsteelblue.com/amsteel-blue-3-16-synthetic-rope-by-the-foot-4-900-lbs/|
+|ET-WGM58AE|5|$55.00|http://www.etonm.com/|
+|Magnet|4|$6.00|https://dextermag.eu/|
+|Linear Slide|2|$3.60|https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html|
+|Bearing|8|$12.00|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
+|Bosch 1617EVS|1|$169.00|https://www.amazon.com/dp/B00004TKHV|
+|Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
+|Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
+|Shaft Support|4|$87.72|https://www.mcmaster.com/62645k42|
+|Lead Screw Nut|1|$76.36|https://www.mcmaster.com/7549k16|
+|10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
+|M4 x 20mm Bolt|9|$1.07|https://www.mcmaster.com/91239a152|
+|M4 Bolt 55mm|3|$0.99|https://www.mcmaster.com/91290a187|
+|45MM M4 Bolt|2|$0.58|https://www.mcmaster.com/91502a134|
+|M4 Bolt|56|$5.04|https://www.mcmaster.com/92095a190|
+|M4 Locknut|12|$1.40|https://www.mcmaster.com/94645a101|
+|25mm M4 Spacer|3|$6.18|https://www.mcmaster.com/94669a092|
+|Square M4 Nut|2|$0.20|https://www.mcmaster.com/96887a329|
+|Oversize M4 Washer|2|$2.56|https://www.mcmaster.com/98040a102|
+|Encoder PCB|8|$56.00|www.example.com|
+|Roller|4|$14.00|www.example.com|
+|Total: |174|$537.90| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $1613.69
