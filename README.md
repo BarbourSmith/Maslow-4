@@ -94,19 +94,19 @@ undefined
 ## Center
 
 
+undefined
+
+
 ## Sides
 
 
 ## Mounting Bolts
 
 
-## M4 Bolt
+## M4x20 Bolt
 
 
-## Head
-
-
-## Shaft
+undefined
 
 
 undefined
@@ -160,19 +160,19 @@ undefined
 ## Center
 
 
+undefined
+
+
 ## Sides
 
 
 ## Mounting Bolts
 
 
-## M4 Bolt
+## M4x20 Bolt
 
 
-## Head
-
-
-## Shaft
+undefined
 
 
 undefined
@@ -202,19 +202,7 @@ undefined
 undefined
 
 
-## Roller
-
-
-## Roller
-
-
-undefined
-
-
-undefined
-
-
-## Bearing Blocks
+## Blocks And Encoder
 
 
 ## Bearing Block
@@ -229,46 +217,40 @@ undefined
 ## Block
 
 
-## Bolts
-
-
-## M4 Bolt
-
-
-## Head
-
-
-## Shaft
-
-
-undefined
-
-
-## AS5048 Test PCB
-
-
-## Chip
+## Encoder Board
 
 
 ## PCB
 
 
-## Mounting Holes
+## Board
 
 
-## Headers
+## Components
 
 
 undefined
 
 
-## Plug to clear center
+undefined
 
 
-## Bearing Blocks
+undefined
 
 
-## Bearing Block
+## Bolts
+
+
+## M4x20 Bolt
+
+
+undefined
+
+
+## M4 Locknut
+
+
+undefined
 
 
 ## Skateboard Bearing
@@ -277,43 +259,64 @@ undefined
 undefined
 
 
-## Block
+## Plug to clear center
 
 
 ## Bolts
 
 
-## M4 Bolt
-
-
-## Head
-
-
-## Shaft
+## M4x20 Bolt
 
 
 undefined
 
 
-## AS5048 Test PCB
+## M4 Locknut
 
 
-## Chip
+undefined
+
+
+## Encoder Board
 
 
 ## PCB
 
 
-## Mounting Holes
+## Board
 
 
-## Headers
+## Components
 
 
 undefined
 
 
-## Plug to clear center
+undefined
+
+
+undefined
+
+
+## Bolts
+
+
+## M4x20 Bolt
+
+
+undefined
+
+
+## M4 Locknut
+
+
+undefined
+
+
+## Skateboard Bearing
+
+
+undefined
 
 
 ## Ring
@@ -365,6 +368,21 @@ undefined
 
 
 ## Base
+
+
+undefined
+
+
+## Mounting Hardware
+
+
+## M7 x 25mm Bolt
+
+
+undefined
+
+
+## M7 Locknut
 
 
 undefined
@@ -437,6 +455,21 @@ Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the mea
 
 
 The radius of this is not displayed on the diagram, and is estimated. It should be checked.
+
+
+undefined
+
+
+## Mounting Hardware
+
+
+## M4x20 Bolt
+
+
+undefined
+
+
+## M4 x 7mm Spacer
 
 
 undefined
@@ -559,6 +592,21 @@ undefined
 undefined
 
 
+## Mounting Hardware
+
+
+## M7 x 25mm Bolt
+
+
+undefined
+
+
+## M7 Locknut
+
+
+undefined
+
+
 ## Post
 
 
@@ -626,6 +674,21 @@ Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the mea
 
 
 The radius of this is not displayed on the diagram, and is estimated. It should be checked.
+
+
+undefined
+
+
+## Mounting Hardware
+
+
+## M4x20 Bolt
+
+
+undefined
+
+
+## M4 x 7mm Spacer
 
 
 undefined
@@ -710,6 +773,342 @@ undefined
 
 
 ## Controller Board
+
+
+## 5 Motor Controller Board
+
+
+## PCB
+
+
+undefined
+
+
+## ESP32
+
+
+## ESP32
+
+
+## PCB
+
+
+## Headers
+
+
+## Processor
+
+
+## USB Plug
+
+
+undefined
+
+
+## SMD Female Header
+
+
+## Body
+
+
+## Pins
+
+
+undefined
+
+
+## Misc Chips
+
+
+## SPI Motor Controller
+
+
+undefined
+
+
+## Voltage Regulator
+
+
+undefined
+
+
+## Motor Driver Sub Assembly
+
+
+## One Motor Driver
+
+
+## DRV8873 H-Bridge
+
+
+## Body
+
+
+## Legs
+
+
+undefined
+
+
+## JST XH 8 Place Right Angle
+
+
+## Body
+
+
+## Pins
+
+
+undefined
+
+
+## 0805 Parts
+
+
+## 0805 package
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+## 1206 Parts
+
+
+undefined
+
+
+## Large Capacitor
+
+
+undefined
+
+
+## Power Jack
+
+
+## Maslow 4 Power Plug
+
+
+## Body
+
+
+## Legs
+
+
+undefined
+
+
+## Mounting Hardware
+
+
+## Hardware Stack
+
+
+## M4 20mm Spacer
+
+
+undefined
+
+
+## 45mm M4 Bolt
+
+
+undefined
+
+
+## M4 Locknut
+
+
+undefined
+
+
+## 5 Motor Controller Case
+
+
+## 5 Motor Controller Board
+
+
+## PCB
+
+
+undefined
+
+
+## ESP32
+
+
+## ESP32
+
+
+## PCB
+
+
+## Headers
+
+
+## Processor
+
+
+## USB Plug
+
+
+undefined
+
+
+## SMD Female Header
+
+
+## Body
+
+
+## Pins
+
+
+undefined
+
+
+## Misc Chips
+
+
+## SPI Motor Controller
+
+
+undefined
+
+
+## Voltage Regulator
+
+
+undefined
+
+
+## Motor Driver Sub Assembly
+
+
+## One Motor Driver
+
+
+## DRV8873 H-Bridge
+
+
+## Body
+
+
+## Legs
+
+
+undefined
+
+
+## JST XH 8 Place Right Angle
+
+
+## Body
+
+
+## Pins
+
+
+undefined
+
+
+## 0805 Parts
+
+
+## 0805 package
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+## 1206 Parts
+
+
+undefined
+
+
+## Large Capacitor
+
+
+undefined
+
+
+## Power Jack
+
+
+## Maslow 4 Power Plug
+
+
+## Body
+
+
+## Legs
+
+
+undefined
+
+
+## Mounting Hardware
+
+
+## Hardware Stack
+
+
+## M4 20mm Spacer
+
+
+undefined
+
+
+## 45mm M4 Bolt
+
+
+undefined
+
+
+## M4 Locknut
+
+
+undefined
+
+
+## Tabs
+
+
+## Sheet Metal Tab Take Two
+
+
+## Top
 
 
 ## Sled

@@ -253,6 +253,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 138888",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 707174",
                             "ioValue": 10
                         },
@@ -267,10 +271,6 @@
                         {
                             "name": "3D shape 140735",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 138888",
-                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -278,8 +278,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
-                    "y": 164,
+                    "x": 1316,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -436,8 +436,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
-                    "y": 164,
+                    "x": 1316,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -516,8 +516,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
-                    "y": 164,
+                    "x": 1316,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -551,21 +551,137 @@
         {
             "atomType": "Molecule",
             "name": "Controller Board",
-            "x": 109,
-            "y": 175,
+            "x": 124,
+            "y": 191,
             "uniqueID": 600767,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "5 Motor Controller Board",
+                    "x": 184,
+                    "y": 109,
+                    "uniqueID": 565483,
+                    "projectID": "200385438",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "5 Motor Controller Case",
+                    "x": 182,
+                    "y": 206,
+                    "uniqueID": 458425,
+                    "projectID": "210864333",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 364,
+                    "y": 138,
+                    "uniqueID": 954640,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 816774",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 542460",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 827890",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 816774",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 492,
+                    "y": 143,
+                    "uniqueID": 726482,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 642,
+                    "y": 118,
+                    "uniqueID": 352439,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 22
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
-                    "y": 164,
+                    "x": 1316,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 827890",
+                    "ap1ID": 565483,
+                    "ap2ID": 954640
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 542460",
+                    "ap1ID": 458425,
+                    "ap2ID": 954640
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 954640,
+                    "ap2ID": 726482
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 726482,
+                    "ap2ID": 352439
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 352439
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -588,8 +704,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Controller Board",
-                    "x": 109,
-                    "y": 175,
+                    "x": 124,
+                    "y": 191,
                     "uniqueID": 600767,
                     "ioValues": []
                 },
@@ -618,8 +734,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
-                    "y": 164,
+                    "x": 1316,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -659,8 +775,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
-                    "y": 164,
+                    "x": 1316,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -768,15 +884,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 419515",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 357797",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 643386",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 419515",
                             "ioValue": 10
                         },
                         {
@@ -789,8 +905,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
-                    "y": 164,
+                    "x": 1316,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
