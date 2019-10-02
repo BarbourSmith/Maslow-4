@@ -278,8 +278,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -409,8 +409,8 @@
         {
             "atomType": "Molecule",
             "name": "Lift",
-            "x": 54,
-            "y": 136,
+            "x": 50,
+            "y": 137,
             "uniqueID": 272201,
             "ioValues": [],
             "topLevel": false,
@@ -418,26 +418,17 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Z-Axis Router Lift Mechanism",
-                    "x": 89,
-                    "y": 116,
+                    "x": 72,
+                    "y": 145,
                     "uniqueID": 428019,
-                    "projectID": "200638041",
-                    "ioValues": []
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Z-Axis Router Lift Mechanism",
-                    "x": 89,
-                    "y": 116,
-                    "uniqueID": 661233,
                     "projectID": "200638041",
                     "ioValues": []
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -516,8 +507,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -588,14 +579,18 @@
                         },
                         {
                             "name": "3D shape 542460",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 816774",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 542460",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 827890",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 816774",
                             "ioValue": 10
                         }
                     ],
@@ -608,6 +603,10 @@
                     "y": 143,
                     "uniqueID": 726482,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -630,6 +629,10 @@
                     "uniqueID": 352439,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -646,8 +649,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -734,8 +737,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -775,8 +778,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -809,8 +812,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Lift",
-                    "x": 54,
-                    "y": 136,
+                    "x": 50,
+                    "y": 137,
                     "uniqueID": 272201,
                     "ioValues": []
                 },
@@ -905,8 +908,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
