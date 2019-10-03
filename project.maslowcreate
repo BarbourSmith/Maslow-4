@@ -444,8 +444,8 @@
         {
             "atomType": "Molecule",
             "name": "Power Supply",
-            "x": 114,
-            "y": 67,
+            "x": 108,
+            "y": 81,
             "uniqueID": 594301,
             "ioValues": [],
             "topLevel": false,
@@ -636,7 +636,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": -90
+                            "ioValue": 90
                         }
                     ]
                 },
@@ -653,7 +653,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 150
+                            "ioValue": 170
                         },
                         {
                             "name": "zDist",
@@ -714,8 +714,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Power Supply",
-                    "x": 114,
-                    "y": 67,
+                    "x": 108,
+                    "y": 81,
                     "uniqueID": 594301,
                     "ioValues": []
                 },
