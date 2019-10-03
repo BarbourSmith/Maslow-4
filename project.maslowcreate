@@ -653,7 +653,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 170
+                            "ioValue": 160
                         },
                         {
                             "name": "zDist",
