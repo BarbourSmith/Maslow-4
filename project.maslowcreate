@@ -609,7 +609,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": -90
                         }
                     ]
                 },
@@ -626,7 +626,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -150
                         },
                         {
                             "name": "zDist",
@@ -708,7 +708,7 @@
                     "uniqueID": 197386,
                     "ioValues": [
                         {
-                            "name": "3D shape 756148",
+                            "name": "3D shape 743365",
                             "ioValue": ""
                         },
                         {
@@ -717,6 +717,10 @@
                         },
                         {
                             "name": "3D shape 674914",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 743365",
                             "ioValue": 10
                         }
                     ],
@@ -735,6 +739,12 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 674914",
                     "ap1ID": 594301,
+                    "ap2ID": 197386
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 756148",
+                    "ap1ID": 600767,
                     "ap2ID": 197386
                 },
                 {
@@ -845,8 +855,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 247,
-                    "y": 249,
+                    "x": 239,
+                    "y": 246,
                     "uniqueID": 273681,
                     "ioValues": [
                         {
@@ -870,10 +880,6 @@
                     "y": 148,
                     "uniqueID": 700611,
                     "ioValues": [
-                        {
-                            "name": "3D shape 419515",
-                            "ioValue": ""
-                        },
                         {
                             "name": "3D shape 419515",
                             "ioValue": 10
@@ -928,7 +934,7 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 608595",
+                    "ap2Name": "3D shape 419515",
                     "ap1ID": 273681,
                     "ap2ID": 700611
                 },
