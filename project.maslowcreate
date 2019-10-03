@@ -12,8 +12,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Motor Mount",
-                    "x": 37,
-                    "y": 111,
+                    "x": 32,
+                    "y": 110,
                     "uniqueID": 450295,
                     "projectID": "197399777",
                     "ioValues": []
@@ -418,8 +418,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Z-Axis Router Lift Mechanism",
-                    "x": 72,
-                    "y": 145,
+                    "x": 66,
+                    "y": 151,
                     "uniqueID": 428019,
                     "projectID": "200638041",
                     "ioValues": []

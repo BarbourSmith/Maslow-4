@@ -2,6 +2,34 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|Amsteel Blue 3/16|44|$2.68|http://www.amsteelblue.com/amsteel-blue-3-16-synthetic-rope-by-the-foot-4-900-lbs/|
+|ET-WGM58AE|5|$55.00|http://www.etonm.com/|
+|Linear Slide|2|$3.60|https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html|
+|Bearing|8|$12.00|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
+|Bosch 1617EVS|1|$0.00|https://www.amazon.com/dp/B00004TKHV|
+|Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
+|AS5048 Encoder|4|$17.88|https://www.digikey.com/product-detail/en/ams/AS5048A-HTSP-500/AS5048A-HTSP-500TR-ND/3188615|
+|JST XH 6 Connector|4|$1.80|https://www.digikey.com/product-detail/en/jst-sales-america-inc/S6B-XH-SM4-TB-LF-SN/455-2264-2-ND/1651066|
+|Magnet|4|$0.68|https://www.digikey.com/product-detail/en/radial-magnet-inc/9049/469-1075-ND/6030786|
+|Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
+|Shaft Support|2|$43.86|https://www.mcmaster.com/62645k42|
+|Lead Screw Nut|1|$76.36|https://www.mcmaster.com/7549k16|
+|10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
+|M7 Nut|4|$17.24|https://www.mcmaster.com/90592a018|
+|M4 x 20mm Bolt|189|$22.49|https://www.mcmaster.com/91239a152|
+|M7x25mm Bolt|4|$21.24|https://www.mcmaster.com/91290a166|
+|M4 Bolt 55mm|3|$0.99|https://www.mcmaster.com/91290a187|
+|45MM M4 Bolt|2|$0.58|https://www.mcmaster.com/91502a134|
+|M4 Bolt|16|$1.44|https://www.mcmaster.com/92095a190|
+|M4 7mm Spacer|4|$5.56|https://www.mcmaster.com/92871a308|
+|M4 Locknut|44|$5.12|https://www.mcmaster.com/94645a101|
+|25mm M4 Spacer|3|$6.18|https://www.mcmaster.com/94669a092|
+|Square M4 Nut|2|$0.20|https://www.mcmaster.com/96887a329|
+|Oversize M4 Washer|2|$2.56|https://www.mcmaster.com/98040a102|
+|100nf 10uf Filter Caps|4|$0.40|www.digikey.com|
+|Side Steel Plate|148|$88.80|www.example.com|
+|Spool Center|4|$12.00|www.example.com|
+|Roller|4|$14.00|www.example.com|
+|Total: |512|$450.18| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $1350.55
