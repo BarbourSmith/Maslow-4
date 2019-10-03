@@ -569,8 +569,8 @@
         {
             "atomType": "Molecule",
             "name": "Controller Board",
-            "x": 124,
-            "y": 191,
+            "x": 114,
+            "y": 209,
             "uniqueID": 600767,
             "ioValues": [],
             "topLevel": false,
@@ -722,16 +722,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Controller Board",
-                    "x": 124,
-                    "y": 191,
+                    "x": 114,
+                    "y": 209,
                     "uniqueID": 600767,
                     "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 545,
-                    "y": 74,
+                    "x": 518,
+                    "y": 157,
                     "uniqueID": 197386,
                     "ioValues": [
                         {
@@ -908,7 +908,7 @@
                     "uniqueID": 700611,
                     "ioValues": [
                         {
-                            "name": "3D shape 608595",
+                            "name": "3D shape 897707",
                             "ioValue": ""
                         },
                         {
@@ -925,6 +925,10 @@
                         },
                         {
                             "name": "3D shape 608595",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 897707",
                             "ioValue": 10
                         }
                     ],
@@ -949,6 +953,12 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 643386",
                     "ap1ID": 272201,
+                    "ap2ID": 700611
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 608595",
+                    "ap1ID": 264668,
                     "ap2ID": 700611
                 },
                 {
