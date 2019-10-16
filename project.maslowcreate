@@ -249,14 +249,6 @@
                     "uniqueID": 377590,
                     "ioValues": [
                         {
-                            "name": "3D shape 138888",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 138888",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 707174",
                             "ioValue": 10
                         },
@@ -601,14 +593,6 @@
                     "uniqueID": 954640,
                     "ioValues": [
                         {
-                            "name": "3D shape 816774",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 816774",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 542460",
                             "ioValue": 10
                         },
@@ -734,14 +718,6 @@
                     "y": 157,
                     "uniqueID": 197386,
                     "ioValues": [
-                        {
-                            "name": "3D shape 743365",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 743365",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 756148",
                             "ioValue": 10
@@ -907,14 +883,6 @@
                     "y": 148,
                     "uniqueID": 700611,
                     "ioValues": [
-                        {
-                            "name": "3D shape 897707",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 897707",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 419515",
                             "ioValue": 10
