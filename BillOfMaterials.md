@@ -2,49 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Amsteel Blue 3/16|44|$2.68|http://www.amsteelblue.com/amsteel-blue-3-16-synthetic-rope-by-the-foot-4-900-lbs/|
-|ET-WGM58AE|5|$55.00|http://www.etonm.com/|
-|PCBA Service|1|$4.00|https://macrofab.com/|
-|Linear Slide|2|$3.60|https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html|
-|JST XH 8 Place Connector|5|$0.49|https://www.aliexpress.com/item/32868570445.html|
-|ESP32|1|$4.40|https://www.aliexpress.com/item/32928267626.html|
-|Bearing|8|$12.00|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
-|24Volt, 5 Amp Power Supply|1|$12.95|https://www.amazon.com/Superpower-Power-Adapter-Supply-Output/dp/B01CYIFOHE|
-|Bosch 1617EVS|1|$0.00|https://www.amazon.com/dp/B00004TKHV|
-|Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
-|AS5048 Encoder|4|$17.88|https://www.digikey.com/product-detail/en/ams/AS5048A-HTSP-500/AS5048A-HTSP-500TR-ND/3188615|
-|Power Plug|1|$0.90|https://www.digikey.com/product-detail/en/cui-inc/PJ-002BH-SMT-TR/CP-002BHPJTR-ND/404626|
-|JST XH 6 Connector|4|$1.80|https://www.digikey.com/product-detail/en/jst-sales-america-inc/S6B-XH-SM4-TB-LF-SN/455-2264-2-ND/1651066|
-|47nF Capacitor|5|$0.13|https://www.digikey.com/product-detail/en/kemet/C0805C473K5RACTU/399-1166-2-ND/411165|
-|7805 Voltage Regulator|1|$0.21|https://www.digikey.com/product-detail/en/on-semiconductor/MC7805BDTRKG/MC7805BDTRKGOSTR-ND/919331|
-|22uF Capacitor|5|$0.47|https://www.digikey.com/product-detail/en/panasonic-electronic-components/EEE-1HA220WP/PCE3920TR-ND/766087|
-|Magnet|4|$0.68|https://www.digikey.com/product-detail/en/radial-magnet-inc/9049/469-1075-ND/6030786|
-|1uF Capacitor|10|$0.15|https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B105KAFNNNE/1276-1066-2-ND/3886724|
-|.1uF Capacitor|10|$0.07|https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21F104ZBCNNNC/1276-1007-2-ND/3886665|
-|10k Resistor|5|$0.05|https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNCP0805FTD10K0/RNCP0805FTD10K0TR-ND/2240262|
-|1.5k Sense Resistor|10|$0.11|https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNCP1206FTD1K50/RNCP1206FTD1K50TR-ND/2240341|
-|DRV8873|5|$10.50|https://www.digikey.com/product-detail/en/texas-instruments/DRV8873HPWPR/296-53139-2-ND/9861442|
-|Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
-|Shaft Support|2|$43.86|https://www.mcmaster.com/62645k42|
-|Lead Screw Nut|1|$76.36|https://www.mcmaster.com/7549k16|
-|10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
-|M7 Nut|4|$17.24|https://www.mcmaster.com/90592a018|
-|M4 x 20mm Bolt|189|$22.49|https://www.mcmaster.com/91239a152|
-|M7x25mm Bolt|4|$21.24|https://www.mcmaster.com/91290a166|
-|M4 Bolt 55mm|3|$0.99|https://www.mcmaster.com/91290a187|
-|45MM M4 Bolt|5|$1.44|https://www.mcmaster.com/91502a134|
-|M4 Bolt|16|$1.44|https://www.mcmaster.com/92095a190|
-|M4 7mm Spacer|4|$5.56|https://www.mcmaster.com/92871a308|
-|M4 Locknut|47|$5.47|https://www.mcmaster.com/94645a101|
-|20mm M4 Spacer Aluminum|3|$5.58|https://www.mcmaster.com/94669a090|
-|25mm M4 Spacer|3|$6.18|https://www.mcmaster.com/94669a092|
-|Square M4 Nut|2|$0.20|https://www.mcmaster.com/96887a329|
-|Oversize M4 Washer|2|$2.56|https://www.mcmaster.com/98040a102|
-|15 Place Female Header|2|$1.19|https://www.mouser.co.uk/ProductDetail/Harwin/M20-7861546?qs=sGAEpiMZZMs%252BGHln7q6pmzzqnf3%2F1AeIR0hnMc3ILas=|
-|100nf 10uf Filter Caps|4|$0.40|www.digikey.com|
-|Side Steel Plate|148|$88.80|www.example.com|
-|Spool Center|4|$12.00|www.example.com|
-|Roller|4|$14.00|www.example.com|
-|Total: |583|$492.59| |
+|Total: |0|$0.00| |
 
- 3xCOG MSRP: $1477.78
+ 3xCOG MSRP: $0.00

@@ -76,6 +76,9 @@ The radius of this is not displayed on the diagram, and is estimated. It should 
 undefined
 
 
+## Keepout Regions
+
+
 ## M4 Bolt
 
 
@@ -140,6 +143,9 @@ The radius of this is not displayed on the diagram, and is estimated. It should 
 
 
 undefined
+
+
+## Keepout Regions
 
 
 ## M4 Bolt
@@ -217,51 +223,45 @@ undefined
 ## Block
 
 
-## Encoder Board
-
-
-## PCB
-
-
-## Board
-
-
-## Components
-
-
-undefined
-
-
-undefined
-
-
-undefined
-
-
-## Bolts
-
-
-## M4x20 Bolt
-
-
-undefined
-
-
-## M4 Locknut
-
-
-undefined
-
-
-## Skateboard Bearing
-
-
-undefined
-
-
 ## Plug to clear center
 
 
+## Encoder Board
+
+
+## PCB
+
+
+## Board
+
+
+## Components
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+## Bolts
+
+
+## M4x20 Bolt
+
+
+undefined
+
+
+## M4 Locknut
+
+
+undefined
+
+
 ## Bolts
 
 
@@ -308,12 +308,6 @@ undefined
 
 
 ## M4 Locknut
-
-
-undefined
-
-
-## Skateboard Bearing
 
 
 undefined
