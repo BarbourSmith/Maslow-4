@@ -49,6 +49,12 @@
 ## Sheet Metal Tab
 
 
+## Brace Tab
+
+
+## Sheet Metal Tab
+
+
 ## Motor
 
 
@@ -586,13 +592,13 @@ undefined
 ## Misc Chips
 
 
-## SPI Motor Controller
+## Voltage Regulator
 
 
 undefined
 
 
-## Voltage Regulator
+## SPI Motor Controller
 
 
 undefined
@@ -632,12 +638,6 @@ undefined
 
 
 ## 0805 package
-
-
-undefined
-
-
-undefined
 
 
 undefined
@@ -751,13 +751,13 @@ undefined
 ## Misc Chips
 
 
-## SPI Motor Controller
+## Voltage Regulator
 
 
 undefined
 
 
-## Voltage Regulator
+## SPI Motor Controller
 
 
 undefined
@@ -797,12 +797,6 @@ undefined
 
 
 ## 0805 package
-
-
-undefined
-
-
-undefined
 
 
 undefined
@@ -878,6 +872,9 @@ undefined
 
 
 ## Top
+
+
+undefined
 
 
 ## Sled
