@@ -109,13 +109,13 @@ undefined
 ## Sides
 
 
+undefined
+
+
 ## Mounting Bolts
 
 
 ## M4x20 Bolt
-
-
-undefined
 
 
 undefined
@@ -178,13 +178,13 @@ undefined
 ## Sides
 
 
+undefined
+
+
 ## Mounting Bolts
 
 
 ## M4x20 Bolt
-
-
-undefined
 
 
 undefined
@@ -376,13 +376,13 @@ undefined
 ## Mounting Hardware
 
 
-## M7 x 25mm Bolt
+## M8x25 Bolt
 
 
 undefined
 
 
-## M7 Locknut
+## M8 Locknut
 
 
 undefined

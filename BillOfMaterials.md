@@ -26,12 +26,12 @@
 |DRV8873|5|$10.50|https://www.digikey.com/product-detail/en/texas-instruments/DRV8873HPWPR/296-53139-2-ND/9861442|
 |TLC59711|1|$1.46|https://www.digikey.com/product-detail/en/texas-instruments/TLC59711PWPR/296-36745-2-ND/2962067|
 |Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
-|Shaft Support|2|$43.86|https://www.mcmaster.com/62645k42|
-|Lead Screw Nut|1|$76.36|https://www.mcmaster.com/7549k16|
+|Shaft Support|2|$4.00|https://www.mcmaster.com/62645k42|
+|Lead Screw Nut|1|$1.50|https://www.mcmaster.com/7549k16|
 |10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
-|M7 Nut|4|$17.24|https://www.mcmaster.com/90592a018|
-|M4 x 20mm Bolt|189|$22.49|https://www.mcmaster.com/91239a152|
-|M7x25mm Bolt|4|$21.24|https://www.mcmaster.com/91290a166|
+|M8 Locknut|4|$0.42|https://www.mcmaster.com/90576a117|
+|M4 x 20mm Bolt|69|$8.21|https://www.mcmaster.com/91239a152|
+|M8x25 Bolt|4|$1.28|https://www.mcmaster.com/91239a427|
 |M4 Bolt 55mm|3|$0.99|https://www.mcmaster.com/91290a187|
 |45MM M4 Bolt|6|$1.73|https://www.mcmaster.com/91502a134|
 |M4 Bolt|16|$1.44|https://www.mcmaster.com/92095a190|
@@ -44,9 +44,9 @@
 |15 Place Female Header|2|$1.19|https://www.mouser.co.uk/ProductDetail/Harwin/M20-7861546?qs=sGAEpiMZZMs%252BGHln7q6pmzzqnf3%2F1AeIR0hnMc3ILas=|
 |100nf 10uf Filter Caps|4|$0.40|www.digikey.com|
 |Roller|4|$14.00|www.example.com|
-|Side Steel Plate|148|$88.80|www.example.com|
+|Spool Side|8|$6.40|www.example.com|
 |Spool Center|4|$12.00|www.example.com|
 |Metal PCB Guard|1|$0.00|www.example.com|
-|Total: |588|$496.27| |
+|Total: |328|$248.09| |
 
- 3xCOG MSRP: $1488.81
+ 3xCOG MSRP: $744.26
